@@ -5,5 +5,5 @@ group :build do
 end
 
 group :docs do
-  gem 'jazzy'
+  gem 'jazzy', '>= 0.13.5'
 end
